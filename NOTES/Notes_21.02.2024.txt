@@ -1,0 +1,29 @@
+## Instalar:
+
+- Composer: https://getcomposer.org/
+- Note.js: https://nodejs.org/en
+- Laravel: https://laravel.com/
+
+* Arquitetura MVC: Model-View-Controller
+
+  - manipulação dos dados (model); 
+  - interação do usuário (view); 
+  - camada de controle (controller). 
+
+* Canal: Código-Fonte TV
+
+* Link do vídeo visto na aula: https://youtu.be/4oxjaQCJRaA?si=HSTBAzPLi6Na_eZf
+
+- Tailwindcss: https://tailwindcss.com/
+- Inertia: https://inertiajs.com/
+- Vue.js: https://vuejs.org/
+- Vercel: https://vercel.com/
+
+- Domínio é feito no registro.br; é necessário o CPF/CNPJ para fazê-lo.
+
+- Filezilla: fillezilla-project.org
+
+- QUANDO CHEGAR EM CASA: entrar no terminal do VsCode, acessar a pasta xampp, e digitar o seguinte comando: 
+composer create-project laravel/laravel;
+Depois da instalação: digitar cd C:\xampp\laravel; php artisan serve; e clicar apertando o Ctrl no IP que aparecer no terminal.
+
